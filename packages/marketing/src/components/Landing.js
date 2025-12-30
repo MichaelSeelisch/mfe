@@ -119,8 +119,7 @@ export default function Album() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="https://unsplash.com/de/fotos/mann-beim-verladen-von-heuballen-in-einen-schiffscontainer-Myx04QnYtqE"
-                    title="Image title"
+                    image="https://images.unsplash.com/photo-1761839257874-e56dfa2260cb?q=80&w=3269&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   />
                   <CardContent className={classes.cardContent}>
                     <Typography gutterBottom variant="h5" component="h2">
